@@ -12,11 +12,3 @@
 *   💻 Основной стек: **Python**
 *   ⚙️ Инструменты: **Git / GitHub**
 
-<!--### 📊 Моя статистика GitHub
-<p align="left">
-  <img src="https://vercel.app" alt="bezdar52 github stats" height="150" />
-  <img src="https://vercel.app" alt="bezdar52 top languages" height="150" />
-</p>
--->
-### 📫 Как меня найти
-*   **GitHub:** [SocketSnake](https://github.com/SocketSnake)
