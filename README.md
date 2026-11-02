@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Здесь будет твоя гифка -->
-  <img src="GHUB.gif" alt="Python Developer Animation" width="600" />
+  <img src="GHUB.gif" alt="Python Developer Animation" width="350 />
 </div>
 
 ### 🛠 Обо мне
