@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**SocketSnake/SocketSnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Привет! Я Ибрагим
 
-Here are some ideas to get you started:
+<div align="center">
+  <!-- Здесь будет твоя гифка -->
+  <img src="GHUB.gif" alt="Python Developer Animation" width="600" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠 Обо мне
+Я занимаюсь разработкой и создаю проекты на **Python** 🐍. Мне интересно разбираться в работе сетей, низкоуровневых инструментах.
+
+*   💻 Основной стек: **Python**
+*   ⚙️ Инструменты: **Git / GitHub**
+
+<!--### 📊 Моя статистика GitHub
+<p align="left">
+  <img src="https://vercel.app" alt="bezdar52 github stats" height="150" />
+  <img src="https://vercel.app" alt="bezdar52 top languages" height="150" />
+</p>
 -->
+### 📫 Как меня найти
+*   **GitHub:** [SocketSnake](https://github.com/SocketSnake)
